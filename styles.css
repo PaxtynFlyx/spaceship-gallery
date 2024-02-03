@@ -10,7 +10,7 @@ body {
 }
 
 div {
-    background-color: white;
+    /* background-color: white; */
 }
 
 /* img {
@@ -28,9 +28,21 @@ div {
 
 .row {
     display: flex;
-    background-color: orange;
     flex-wrap: wrap;
+    /* background-color: orange; */
     padding: 10px;
+}
+
+.column {
+    flex: 25%;
+    /* background-color: red; */
+    max-width: 25%;
+    margin: 0px;
+    padding: 5px;
+}
+
+.column img {
+    width: 100%;
 }
 
 /* .column {
