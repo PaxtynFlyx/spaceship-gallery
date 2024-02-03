@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(26, 24, 24);
+}
+
+div {
+    background-color: white;
+}
+
+/* img {
+    width: 500px;
+    height: 500px;
+} */
+
+.header {
+    /* background-color: rgb(26, 24, 24); */
+    background-color: blue;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    background-color: orange;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+/* .column {
+
+} */
+
