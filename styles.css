@@ -40,3 +40,9 @@ img:hover {
     opacity: 0.4;
 }
 
+@media (max-width: 480px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
