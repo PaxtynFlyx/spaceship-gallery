@@ -9,15 +9,6 @@ body {
     background-color: rgb(26, 24, 24);
 }
 
-div {
-    /* background-color: white; */
-}
-
-/* img {
-    width: 500px;
-    height: 500px;
-} */
-
 .header {
     /* background-color: rgb(26, 24, 24); */
     background-color: blue;
@@ -45,7 +36,7 @@ div {
     width: 100%;
 }
 
-/* .column {
-
-} */
+img:hover {
+    opacity: 0.4;
+}
 
