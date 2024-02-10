@@ -10,7 +10,6 @@ body {
 }
 
 .header {
-    /* background-color: rgb(26, 24, 24); */
     background-color: blue;
     color: white;
     padding: 25px;
@@ -20,13 +19,11 @@ body {
 .row {
     display: flex;
     flex-wrap: wrap;
-    /* background-color: orange; */
     padding: 10px;
 }
 
 .column {
     flex: 25%;
-    /* background-color: red; */
     max-width: 25%;
     margin: 0px;
     padding: 5px;
